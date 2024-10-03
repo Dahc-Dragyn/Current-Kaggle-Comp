@@ -1,4 +1,4 @@
-# Problematic Internet Use Prediction
+# Problematic Internet Use Prediction for Kaggle competition. I need some help with the data preprocessing.  
 
 This project focuses on predicting problematic internet use among children, utilizing survey data and actigraphy time series. Machine learning models, particularly logistic regression, are employed to uncover insights and improve prediction accuracy through careful feature engineering.
 
